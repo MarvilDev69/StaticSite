@@ -1,1 +1,1 @@
-python3 src/main.py "MarvilDev69/StaticSite"
+python3 src/main.py "/MarvilDev69/StaticSite/"
